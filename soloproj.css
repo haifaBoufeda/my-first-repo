@@ -1,0 +1,165 @@
+ body {
+     background-image: url("https://dk2dv4ezy246u.cloudfront.net/widgets/sSExd86zu6D_large.jpg");
+  }
+/*HELLO DEAR .. */ 
+h1 {
+     background-color: white; 
+     text-align: center;
+  }
+/*Image 9attous */ 
+img {
+     display: block;
+     height: 600px;
+     width:500px;
+     margin: auto;
+     background-color: white;
+     margin-top: 100px;
+     margin-bottom: 10px;
+  }
+/*Instruction Me button ...*/
+#myButton {
+     background-color: rgb(148, 126, 126);
+     color: rgb(0, 0, 0);
+     font-size:25px;
+     align-items: center;
+     margin: auto; 
+     padding: 18px;
+     border:none;
+     cursor: pointer;
+     position:absolute;
+     width: 50%; 
+     height: 5%;
+     margin-top: -670px;
+     
+  }
+/* Text Insctuction .... */ 
+div {
+     width: 600px;
+     border: 10px solid rgb(238, 14, 14);
+     background-color: aliceblue;
+     padding: 10px;
+     margin: 10px;
+     text-align: center;
+     margin: auto;
+   }
+  p{
+     font-size:35px;
+     font-style: italic;
+     font-weight: bold;
+     text-align: center;
+}
+  
+#submit {
+  font-size: 100px;
+}
+#line-down {
+     height: 50px;
+     width: 100%;
+     background-color: white;
+     margin-top: 30px; 
+     margin-bottom: 20px;
+  }
+  /*******/
+
+#myButton {
+	width: 150px;
+	height: 50px;
+     display: flex;
+     align-items: center;
+	cursor: pointer;
+	font-size: 20px;
+     
+	font-weight: bold;
+	color: black;
+	background: white;
+	border: 2px solid black;
+	box-shadow: 5px 5px 0 black,
+		-5px -5px 0 black,
+		-5px 5px 0 red,
+		5px -5px 0 red;
+	transition: 500ms ease-in-out;
+     
+}
+
+#myButton:hover {
+	box-shadow: 20px 5px 0 red, -20px -5px 0 red;
+}
+
+#myButton:focus {
+	outline: none;
+}
+  
+
+/*Check Me button ...*/
+
+#newButtonId {
+	width: 150px;
+	height: 50px;
+     display: flex;
+     align-items: center;
+	cursor: pointer;
+	font-size: 20px;
+     margin: auto;
+	font-weight: bold;
+	color: black;
+	background: white;
+	border: 2px solid black;
+	box-shadow: 5px 5px 0 black,
+		-5px -5px 0 black,
+		-5px 5px 0 orange,
+		5px -5px 0 orange;
+	transition: 500ms ease-in-out;
+     
+}
+
+#newButtonId:hover {
+	box-shadow: 20px 5px 0 orange, -20px -5px 0 orange;
+}
+
+#newButtonId:focus {
+	outline: none;
+}
+  
+
+/*Submit button ...*/
+
+input[type="submit"]  {
+	width: 150px;
+	height: 50px;
+     display: flex;
+     align-items: center;
+	cursor: pointer;
+	font-size: 20px;
+     margin: auto;
+	font-weight: bold;
+	color: black;
+	background: white;
+	border: 2px solid black;
+	box-shadow: 5px 5px 0 black,
+		-5px -5px 0 black,
+		-5px 5px 0 green,
+		5px -5px 0 green;
+	transition: 500ms ease-in-out;
+     
+}
+
+input[type="submit"]:hover {
+	box-shadow: 20px 5px 0 green, -20px -5px 0 green;
+}
+
+input[type="submit"]:focus {
+	outline: none;
+}
+  
+/*Action Feed ect ...*/
+#actionLabel {
+     font-size:40px;
+     font-weight:bolder;
+     text-align: center;
+     }
+
+     #action{
+          font-size:30px;   
+     }
+
+
